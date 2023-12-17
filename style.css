@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/Molloy_snow.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main{
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+
+.hidden{
+    color: grey;
+    background-color: grey;
+    opacity: 0.5;
+}
+
+#banner{
+    opacity: 0.5;
+    width: 100%
+}
+
+#red{
+    color: red;
+}
